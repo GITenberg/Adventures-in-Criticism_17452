@@ -1,0 +1,42 @@
+_repo: Adventures-in-Criticism_17452
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Q
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, Sir Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2006-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Modern -- History and criticism'
+tableOfContents: Chaucer -- "The passionate pilgrim" -- Shakespeare's lyrics -- Samuel
+  Daniel -- William Browne -- Thomas Carew -- "Robinson Crusoe" -- Lawrence Sterne
+  -- Scott and Burns -- Charles Reade -- Henry Kingsley -- Alexander William Kinglake
+  -- C. S. C. and J. K. S -- Robert Louis Stevenson -- M. Zola -- Selection -- Externals
+  -- Club talk -- Excursionists in poetry -- The popular conception of a poet -- Poets
+  on their own art -- The attitude of the public towards letters -- A case of bookstall
+  censorship -- The poor little penny dreadful -- Ibsen's "Peer Gynt" -- Mr. Swinburne's
+  later manner -- A morning with a book -- Mr. John Davidson -- Björnsterne Björnson
+  -- Mr. George Moore -- Mrs. Margaret L. Woods -- Mr. Hall Caine -- Mr. Anthony Hope
+  -- "Trilby" -- Mr. Stockton -- Bow-wow -- Of seasonal numbers.
+title: Adventures in Criticism
+url: http://www.gutenberg.org/ebooks/17452
